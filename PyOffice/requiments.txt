@@ -1,0 +1,16 @@
+pycbrf
+configparser
+docx2txt
+pandas
+openpyxl
+numpy
+xlrd
+matplolib
+future
+chardet
+wxpython
+pandastable
+tkintertable
+scipy
+odfpy
+python-docx
